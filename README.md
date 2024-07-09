@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hellohound
-- 👀 I’m interested in amatuers cheap web development 
-- 🌱 I’m currently learning html and blender etc
-- 💞️ I’m looking to a game dev study group for beginners
+- 👋 Hi, I’m 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to 
 
 
 <!---
